@@ -1,0 +1,14 @@
+.theme {
+    background-color: rgb(246, 246, 9);
+    color: red;
+    padding: 1rem;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+}
+
+#list {
+    font-size: 18px;
+    font-family: Tahoma, 'Geneva', Verdana, sans-serif;
+    font-weight: 600;
+
+}
